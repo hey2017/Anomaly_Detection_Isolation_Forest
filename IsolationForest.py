@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 31 11:35:14 2021
-
-@author: motta
-"""
-
 import os
 import numpy as np
 import matplotlib.pyplot as plt
@@ -15,7 +8,7 @@ from sklearn.ensemble import IsolationForest
 from sklearn.metrics import mean_absolute_error
 from sklearn.linear_model import LinearRegression
 
-os.chdir(r'C:\Users\motta\Desktop\Anomoly Detection')
+os.chdir(set the directory ...)
 
 #%%
 df2 = pd.read_csv('Housing_Data.csv')
