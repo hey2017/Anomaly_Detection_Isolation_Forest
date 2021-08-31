@@ -5,7 +5,7 @@ to find the mean absolute error (MAE) before and after detecting the outliers. W
 such a way that you can see the variation of MAE values vs. different contamination values of Isolation Forest model and also it recommends the best contamination value. 
 
 # Data Set information
-The data set has unkown labels but all are numerical values. It has 13 varaibales which each discusses properties of houses which eventually needs prediction on the value of houses.
+The data set has unkown labels but all are numerical values. It has 13 varaibales which each discusses properties of houses which eventually needs prediction on the value of houses. The data is ```Housing_Data.csv```
 
 ## Technical requirements
 For this analysis you need to have python installed and have the following libraries:
